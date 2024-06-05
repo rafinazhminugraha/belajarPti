@@ -10,6 +10,7 @@ int main(int argc, char const *argv[])
     cout << "hello, world!" << endl;
 
     cout << "Hello gesssasioaioasvkaivn\n";
-    cout << "achmad soewardi"<<endl;:
+    cout << "achmad soewardi"<<endl;
+    cout<<"Pagi gess"<<endl;
     return 0;
 }
